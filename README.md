@@ -18,7 +18,7 @@
 ### Установка
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/yourusername/DeliveryOrderFilter.git
+   git clone https://github.com/muhammadhafiz18/DeliveryOrderFilter.git
    cd DeliveryOrderFilter
 # Приложение Фильтрации Заказов Доставки
 
